@@ -1,0 +1,81 @@
+[
+ {
+   "FIELD1": "Date",
+   "FIELD2": "Event",
+   "FIELD3": "Location",
+   "FIELD4": "Attendees",
+   "FIELD5": "Location2",
+   "FIELD6": "Lat",
+   "FIELD7": "Long"
+ },
+ {
+   "FIELD1": "9-13 Apr 18",
+   "FIELD2": "National LGL Cadre Training",
+   "FIELD3": "RSC - Mobile, AL",
+   "FIELD4": "LGL Cadre",
+   "FIELD5": "Mobile, AL",
+   "FIELD6": "30.695366",
+   "FIELD7": "-88.039891"
+ },
+ {
+   "FIELD1": "18 Apr - 4 May",
+   "FIELD2": "Exercise Key Resolve",
+   "FIELD3": "South Korea",
+   "FIELD4": "POD HQ, selected FEST",
+   "FIELD5": "South Korea",
+   "FIELD6": "35.907757",
+   "FIELD7": "35.907757"
+ },
+ {
+   "FIELD1": "16-19 Apr 18",
+   "FIELD2": "Field Force Engineering Workshop",
+   "FIELD3": "Ft Leonard Wood, MO",
+   "FIELD4": "G3, FFE Community",
+   "FIELD5": "Ft Leonard Wood, MO",
+   "FIELD6": "37.794494",
+   "FIELD7": "-92.134841"
+ },
+ {
+   "FIELD1": "16-20 Apr 18",
+   "FIELD2": "National ATL Cadre Training",
+   "FIELD3": "RSC - Mobile, AL",
+   "FIELD4": "ATL Cadre",
+   "FIELD5": "Mobile, AL",
+   "FIELD6": "30.695366",
+   "FIELD7": "-88.039891"
+ },
+ {
+   "FIELD1": "20-22 Apr 18",
+   "FIELD2": "Engineer Total Planning Exercise (ENTAPE) hosted by the 416th TEC",
+   "FIELD3": "Ft Leonard Wood, MO",
+   "FIELD4": "CG, G3, USACE LNOs",
+   "FIELD5": "Ft Leonard Wood, MO",
+   "FIELD6": "37.794494",
+   "FIELD7": "-92.134841"
+ },
+ {
+   "FIELD1": "23-27 Apr 18",
+   "FIELD2": "PL 84-99 Basic Course",
+   "FIELD3": "Wilmington, NC",
+   "FIELD4": "Deputy, CECW-HS",
+   "FIELD5": "Wilmington, NC",
+   "FIELD6": "34.225726",
+   "FIELD7": "-77.94471"
+ },
+ {
+   "FIELD1": "43220",
+   "FIELD2": "Engineer Worldwide SVTC (Operations Focus)",
+   "FIELD3": "2A514BC, UOC Situation Room",
+   "FIELD4": "CG, DCG, OCE",
+   "FIELD5": "Pentagon, Washington DC",
+   "FIELD6": "38.871857",
+   "FIELD7": "-77.056267"
+ },
+ {
+   "FIELD1": "30 Apr - 11 May 18",
+   "FIELD2": "National Level Exercise ",
+   "FIELD3": "",
+   "FIELD4": "HQ USACE, NAD HQ, Selected EM CoP",
+   "FIELD5": "",
+   "FIELD6": "38.907192",
+   "FIELD7": "-77.036871"
